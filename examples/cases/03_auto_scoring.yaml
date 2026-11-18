@@ -1,0 +1,17 @@
+name: Автоматическое решение по заявке малого бизнеса
+process: Модель оценивает заявку лизингополучателя и выносит решение об одобрении без участия андеррайтера
+operations_per_month: 4000
+minutes_saved_per_op: 25
+adoption_rate: 0.6
+hourly_cost_business: 1500
+data_sensitivity: personal
+audience: clients
+autonomy: autonomous
+deployment: local
+decision_impact: client
+price_in_per_1m: 0
+price_out_per_1m: 0
+infra_month: 120000
+implementation_hours: 1600
+data_readiness: 3
+integration_simplicity: 2

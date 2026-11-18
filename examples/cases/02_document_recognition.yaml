@@ -1,0 +1,17 @@
+name: Распознавание документов в лизинговой заявке
+process: Извлечение реквизитов из паспорта, ПТС и учредительных документов в карточку заявки; менеджер проверяет поля
+operations_per_month: 6000
+minutes_saved_per_op: 12
+adoption_rate: 0.8
+hourly_cost_business: 1100
+data_sensitivity: personal
+audience: internal
+autonomy: assistant
+deployment: local
+decision_impact: internal
+price_in_per_1m: 0
+price_out_per_1m: 0
+infra_month: 90000
+implementation_hours: 600
+data_readiness: 3
+integration_simplicity: 3
