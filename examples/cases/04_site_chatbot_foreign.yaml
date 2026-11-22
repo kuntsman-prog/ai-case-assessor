@@ -1,0 +1,14 @@
+name: Чат-бот на сайте через зарубежный API
+process: Бот отвечает клиентам на сайте и собирает контактные данные и сведения о компании для заявки
+operations_per_month: 15000
+minutes_saved_per_op: 4
+adoption_rate: 0.6
+hourly_cost_business: 900
+data_sensitivity: personal
+audience: clients
+autonomy: assistant
+deployment: foreign_api
+decision_impact: none
+implementation_hours: 200
+data_readiness: 4
+integration_simplicity: 4

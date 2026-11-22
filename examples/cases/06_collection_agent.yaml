@@ -1,0 +1,17 @@
+name: Агент напоминаний о просроченных платежах
+process: Агент формирует и отправляет клиентам персональные напоминания и фиксирует ответы в CRM; шаблоны утверждены
+operations_per_month: 3000
+minutes_saved_per_op: 8
+adoption_rate: 0.8
+hourly_cost_business: 1000
+data_sensitivity: personal
+audience: clients
+autonomy: agent
+deployment: local
+decision_impact: internal
+price_in_per_1m: 0
+price_out_per_1m: 0
+infra_month: 45000
+implementation_hours: 480
+data_readiness: 4
+integration_simplicity: 3

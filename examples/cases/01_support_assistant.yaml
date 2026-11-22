@@ -1,0 +1,17 @@
+name: Ассистент оператора поддержки
+process: RAG по базе знаний и регламентам; подсказывает оператору ответ клиенту, оператор проверяет и отправляет
+operations_per_month: 20000
+minutes_saved_per_op: 3
+adoption_rate: 0.7
+hourly_cost_business: 900
+data_sensitivity: internal
+audience: internal
+autonomy: assistant
+deployment: local
+decision_impact: none
+price_in_per_1m: 0
+price_out_per_1m: 0
+infra_month: 90000
+implementation_hours: 320
+data_readiness: 4
+integration_simplicity: 4
