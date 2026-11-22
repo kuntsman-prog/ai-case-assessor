@@ -100,5 +100,5 @@ config/scenarios/       сценарии нагрузки
 docs/index.html         веб-версия калькулятора (GitHub Pages)
 GUIDE.ru.md             руководство пользователя калькулятора
 AI_PLATFORM_ARCHITECTURE.ru.md   референсная архитектура AI-платформы (английская версия без .ru)
-tests/                  автотесты
+tests/                  автотесты; test_control.py: контрольный пример, посчитанный вручную по шагам; test_web_parity.py: веб-версия совпадает с Python (нужен Node.js, без него тест пропускается)
 ```

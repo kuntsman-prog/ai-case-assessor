@@ -102,5 +102,5 @@ config/scenarios/       load scenarios
 docs/index.html         web version of the calculator (GitHub Pages)
 GUIDE.ru.md             calculator user guide (Russian)
 AI_PLATFORM_ARCHITECTURE.md   reference AI platform architecture (English, Russian in .ru.md)
-tests/                  automated tests
+tests/                  automated tests; test_control.py: a worked example checked step by step; test_web_parity.py: the web version matches Python (needs Node.js, skipped otherwise)
 ```
